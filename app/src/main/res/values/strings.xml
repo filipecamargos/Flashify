@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flashify</string>
+    <string name="Header">Welcome to Flashify!</string>
+    <string name="add_flash_card">ADD FLASH CARD</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edit">Edit</string>
+    <string name="enter_the_topic">Enter the topic</string>
+    <string name="enter_the_front_side">Enter the front side</string>
+    <string name="enter_the_back_side">Enter the back side</string>
+    <string name="save">SAVE</string>
+    <string name="search">SEARCH</string>
+    <string name="search2">Search</string>
+</resources>
